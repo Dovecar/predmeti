@@ -1,2 +1,0 @@
-# predmeti
-predmeti 
